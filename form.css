@@ -1,0 +1,22 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+body{
+background: rgba(223,37,177,0.84);
+background: radial-gradient(ellipse farthest-corner at center center, rgba(223,37,177,0.84) 9%, #f3ff00 40%, #ffff00 40%, rgba(255,0,238,0.38) 80%);
+background: -webkit-radial-gradient(ellipse farthest-corner at center center, rgba(223,37,177,0.84) 9%, #f3ff00 40%, #ffff00 40%, rgba(255,0,238,0.38) 80%);
+background: -moz-radial-gradient(ellipse farthest-corner at center center, rgba(223,37,177,0.84) 9%, #f3ff00 40%, #ffff00 40%, rgba(255,0,238,0.38) 80%);
+}
+form{
+  margin: 140px;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+button{
+  padding: 10px;
+}
